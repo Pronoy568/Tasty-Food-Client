@@ -1,0 +1,15 @@
+.total{
+    background-color: lightblue;
+	margin: auto;
+    height: 500px;
+}
+.left{
+    width:50%;
+	float:left;
+	margin-right:4%;
+}
+.right{
+    width:40%;
+	overflow:hidden;
+    margin-right:10px;
+}

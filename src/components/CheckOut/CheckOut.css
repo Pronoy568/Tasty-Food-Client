@@ -1,0 +1,11 @@
+.CheckOut{
+    background-color: lightblue;
+    height: 500px;
+    text-align: center;
+}
+.UserName{
+    color: rgb(17, 0, 255);
+}
+.foodName{
+    color: rgb(231, 28, 197);
+}

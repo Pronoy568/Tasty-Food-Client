@@ -1,0 +1,11 @@
+.Orders{
+ background-color: lightblue;
+ height: 500px;
+ text-align: center;
+}
+.user{
+    color: rgb(79, 150, 58);
+}
+.userEmail{
+    color: rgb(255, 115, 0);
+}
